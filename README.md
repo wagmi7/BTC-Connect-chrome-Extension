@@ -3,8 +3,6 @@
 ## Tagline
 Seamlessly connect to Bitcoin L2 chains and enhance your digital currency experience.
 
-![image](https://github.com/user-attachments/assets/abb9ca06-6980-4403-aff7-e02b3213ffc3)
-
 ## Features
 
 - **Multi-Chain Support**: Connect to various Bitcoin Layer 2 (L2) chains including BEVM, B2, and BOB, allowing users to access a broader range of services and applications.
@@ -18,6 +16,8 @@ Seamlessly connect to Bitcoin L2 chains and enhance your digital currency experi
 - **Real-Time Notifications**: Users receive instant alerts for transactions and connection statuses, keeping them informed and in control.
 
 ## Architecture and Components
+
+![image](https://github.com/user-attachments/assets/abb9ca06-6980-4403-aff7-e02b3213ffc3)
 
 ### 1. **Manifest File**
 The extension begins with a `manifest.json` file, which defines the extension's metadata, permissions, and background scripts. This file is crucial as it informs Chrome about the extension's capabilities and the resources it requires.
