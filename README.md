@@ -3,6 +3,8 @@
 ## Tagline
 Seamlessly connect to Bitcoin L2 chains and enhance your digital currency experience.
 
+![image](https://github.com/user-attachments/assets/abb9ca06-6980-4403-aff7-e02b3213ffc3)
+
 ## Features
 
 - **Multi-Chain Support**: Connect to various Bitcoin Layer 2 (L2) chains including BEVM, B2, and BOB, allowing users to access a broader range of services and applications.
