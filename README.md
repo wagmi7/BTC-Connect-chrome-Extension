@@ -1,7 +1,7 @@
 ## # BTC Connect Chrome Extension
 
 ## Tagline
-Seamlessly connect to Bitcoin L2 chains and enhance your digital currency experience.
+Seamlessly connect to Bitcoin L2 chains and enhance your Bitcoin L2 experience.
 
 ## Features
 
