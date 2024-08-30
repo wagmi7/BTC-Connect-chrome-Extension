@@ -5,7 +5,7 @@ function App() {
   const { openConnectModal, disconnect } = useConnectModal();
   return (
     <div className="App">
-      Hello World
+      Welcome to BTC Connect Chrome Extension
       <button onClick={openConnectModal}>Connect wallet</button>
       <button onClick={disconnect}>Disconnect wallet</button>
     </div>

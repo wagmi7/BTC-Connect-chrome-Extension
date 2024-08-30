@@ -7,7 +7,7 @@ import {
   ConnectProvider,
   OKXConnector,
   UnisatConnector,
-  BitgetConnector
+  BitgetConnector,
 } from '@particle-network/btc-connectkit';
 import { BSquaredTestnet, BSquared } from '@particle-network/chains';
 
@@ -33,7 +33,7 @@ root.render(
           visible: false
         }
       }}
-      connectors={[new UnisatConnector(), new OKXConnector(), new BitgetConnector()]}
+      connectors={[new UnisatConnector(), new OKXConnector(), new BitgetConnector() ]}
     >
     <App />
     </ConnectProvider>
